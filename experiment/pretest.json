@@ -14,8 +14,23 @@
       "difficulty": "beginner"
     },
     
+
     {
-      "question": "2. 4x objective lens is also known as:",
+      "question": "2. When do we use only fine adjustment knob to focus?",
+      "answers": {
+        "a": "when using oil immersion objective",
+        "b": "when using low power objective",
+        "c": "there is no such rule",
+        "d": "when using scanning objective"
+      },
+     
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+
+
+    {
+      "question": "3. 4x objective lens is also known as:",
       "answers": {
         "a": "low power",
         "b": "high dry power",
@@ -30,6 +45,7 @@
     
   ]
 }
+	
 
 	 
 	 

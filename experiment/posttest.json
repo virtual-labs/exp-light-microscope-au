@@ -2,38 +2,47 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "1. What is the limit of resolution a microscope with numerical aperture 1.45 and wavelength 600 nm?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "0.206nm",
+        "b": "206nm",
+        "c": "0.206m",
+        "d": "206m"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+     
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    }, 	 
+
+
+
+    {
+      "question": "2. When do we use only fine adjustment knob to focus?",
+      "answers": {
+        "a": "when using oil immersion objective",
+        "b": "when using low power objective",
+        "c": "there is no such rule",
+        "d": "when using scanning objective"
       },
+     
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
+
+
     {
-      "question": "This is a Sample Question 2?",
+      "question": "3. Par focal refers to microscope with multiple objectives where:",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "objectives are used in pairs for stereospecific effects.",
+        "b": "each objective has the same working distance above the specimen.",
+        "c": "each objective is positioned to be in focus at same stage height.",
+        "d": "sequential objective increase in power by a factor of two."
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
+     
       "correctAnswer": "c",
       "difficulty": "beginner"
     }
+
+    
   ]
 }
