@@ -2,38 +2,51 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "1. The image produced by the compound microscope is:",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "virtual image",
+        "b": "real magnified image",
+        "c": "real diminished image",
+        "d": "virtual diminished image"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
+     
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
+    
+
     {
-      "question": "This is a Sample Question 2?",
+      "question": "2. When do we use only fine adjustment knob to focus?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "when using oil immersion objective",
+        "b": "when using low power objective",
+        "c": "there is no such rule",
+        "d": "when using scanning objective"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+     
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+
+
+    {
+      "question": "3. 4x objective lens is also known as:",
+      "answers": {
+        "a": "low power",
+        "b": "high dry power",
+        "c": "oil immersion",
+        "d": "scanning"
       },
-      "correctAnswer": "c",
+     
+      "correctAnswer": "d",
       "difficulty": "beginner"
     }
+
+    
   ]
 }
+	
+
+	 
+	 
+	 
